@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_200">#B58DE1</color>
+    <color name="primary_500">#9575CD</color>
+    <color name="primary_700">#7E4CD6</color>
+    <color name="secondary_200">#E9E9E9</color>
+    <color name="secondary_700">#E9E9E9</color>
+
+    <color name="grey">#D7878886</color>
+    <color name="black">#616161</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteAlpha">#4DFFFFFF</color>
+    <color name="tabTextColor">#83FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

@@ -6,13 +6,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.app.airvet.MainVM
+import com.app.airvet.ui.MainVM
 import com.app.airvet.api.Resource
 import com.app.airvet.common.*
 import com.app.airvet.databinding.FragmentHomeBinding
 import com.app.airvet.model.UserModel
 import com.app.airvet.ui.adapter.PostAdapter
-import com.app.airvet.utils.view.addInfiniteScrollListener
 import com.app.healios.ui.common.navigateTo
 import com.google.android.material.tabs.TabLayout
 import timber.log.Timber

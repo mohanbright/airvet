@@ -1,15 +1,12 @@
-package com.app.airvet
+package com.app.airvet.ui
 
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.ActionBar
-import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
-import androidx.navigation.NavDirections
 import androidx.navigation.findNavController
-import androidx.navigation.fragment.findNavController
+import com.app.airvet.R
 import com.app.airvet.common.BaseActivity
 import com.app.airvet.databinding.ActivityMainBinding
 

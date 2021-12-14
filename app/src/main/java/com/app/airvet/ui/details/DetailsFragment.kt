@@ -1,13 +1,12 @@
 package com.app.airvet.ui.details
 
-import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.navArgs
-import com.app.airvet.MainVM
+import com.app.airvet.ui.MainVM
 import com.app.airvet.common.BaseFragment
 import com.app.airvet.databinding.FragmentDetailsBinding
 import com.app.airvet.model.UserModel

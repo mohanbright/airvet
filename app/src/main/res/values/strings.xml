@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Airvet</string>
+    <string name="title_home">Home</string>
+    <string name="title_details">Details</string>
+
+    <!--  Connection  -->
+    <string name="no_internet">No Internet</string>
+    <string name="connection">Connection</string>
+    <string name="try_again">Try Again!</string>
+    <string name="connection_error">Please check your internet connection and Try Again!</string>
+
+    <!--Home-->
+    <string name="random_users">Random Users</string>
+    <string name="both">Both</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="location">Location:</string>
+    <string name="email">EMail</string>
+    <string name="contact">Contact</string>
+    <string name="nationality">Nationality</string>
+    <string name="dob">DOB</string>
+    <string name="gender">Gender</string>
+
+</resources>

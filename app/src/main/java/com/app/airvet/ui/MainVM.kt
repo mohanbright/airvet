@@ -1,4 +1,4 @@
-package com.app.airvet
+package com.app.airvet.ui
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

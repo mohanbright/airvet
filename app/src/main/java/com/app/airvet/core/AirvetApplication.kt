@@ -1,4 +1,4 @@
-package com.app.airvet
+package com.app.airvet.core
 
 import androidx.multidex.MultiDexApplication
 import dagger.hilt.android.HiltAndroidApp
