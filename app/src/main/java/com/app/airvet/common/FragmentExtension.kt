@@ -6,7 +6,7 @@ import androidx.appcompat.app.ActionBar
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavDirections
 import androidx.navigation.fragment.findNavController
-import com.app.airvet.MainActivity
+import com.app.airvet.ui.MainActivity
 import com.app.airvet.common.BaseFragment
 
 import com.google.android.material.tabs.TabLayout

@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.activity.viewModels
-import com.app.airvet.MainActivity
+import com.app.airvet.ui.MainActivity
 import com.app.airvet.common.BaseActivity
 
 class SplashActivity : BaseActivity() {
